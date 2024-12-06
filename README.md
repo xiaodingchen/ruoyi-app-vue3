@@ -8,7 +8,7 @@ cli 方式创建的项目，已经配置好了uviewPlus
 ## 技术栈
 1. uni-app https://uniapp.dcloud.net.cn/
 2. Vue 3 https://cn.vuejs.org/guide/introduction.html
-3. nutui-uniapp https://nutui-uniapp.netlify.app/
+3. uview-plus https://uview-plus.jiangruyi.com/
 
 ## 运行
 ```bash
